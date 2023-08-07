@@ -1,7 +1,7 @@
 {
     "name": "arifinhabibi/whatsapp-sending-message",
     "description": "laravel whatsapp sending message",
-    "version": "0.1",
+    "version": "v1.0",
     "type": "library",
     "homepage": "https://github.com/arifinhabibi/whatsapp-sending-message",
     "require": {
