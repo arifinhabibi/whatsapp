@@ -2,6 +2,7 @@
     "name": "arifinhabibi/whatsapp-sending-message",
     "description": "laravel whatsapp sending message",
     "type": "library",
+    "homepage": "https://github.com/arifinhabibi/whatsapp-sending-message",
     "require": {
         "php": ">=7.4|<8.4"
     },
