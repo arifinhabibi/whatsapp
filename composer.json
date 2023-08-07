@@ -16,5 +16,6 @@
             "name": "Muhammad Arifin Habibi",
             "email": "arifinhabibi76@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "stable"
 }
