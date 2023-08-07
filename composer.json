@@ -1,0 +1,19 @@
+{
+    "name": "arifinhabibi/whatsapp-sending-message",
+    "description": "laravel whatsapp sending message",
+    "type": "library",
+    "require": {
+        "php": ">=7.4|<8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Arifinhabibi\\WhatsappSendingMessage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Arifin Habibi",
+            "email": "arifinhabibi76@gmail.com"
+        }
+    ]
+}
