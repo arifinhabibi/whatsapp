@@ -3,8 +3,10 @@
 
 I'll tell you how to installation or setup this package into your project laravel, please follow this way.
 
+## Requirements Tools
 
-
+- php 7.4 | 8.4
+- composer has been installed on your system
 
 ## Installation
 
