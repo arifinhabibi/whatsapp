@@ -1,6 +1,8 @@
 
 # package laravel for whatsapp sending message
 
+[![Latest Stable Version](https://poser.pugx.org/hnhdigital-os/laravel-html-builder/v/stable.svg)](https://packagist.org/packages/hnhdigital-os/laravel-html-builder) [![Total Downloads](https://poser.pugx.org/hnhdigital-os/laravel-html-builder/downloads.svg)](https://packagist.org/packages/hnhdigital-os/laravel-html-builder) [![License](https://poser.pugx.org/hnhdigital-os/laravel-html-builder/license.svg)](https://packagist.org/packages/hnhdigital-os/laravel-html-builder)
+
 I'll tell you how to installation or setup this package into your project laravel, please follow this way.
 
 ## Requirements Tools
