@@ -1,6 +1,6 @@
 <?php 
 
-class Test{
+class Main{
 
     public function __construct(Type $var = null) {
         $this->var = $var;
