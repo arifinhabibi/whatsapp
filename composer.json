@@ -6,11 +6,11 @@
         "whatsapp",
         "sending",
         "message",
-        "laravel whatsapp sending message library"
+        "laravel whatsapp sending message"
     ],
-    "license": "MIT",
     "version": "1.0.0",
     "type": "library",
+    "license": "MIT",
     "homepage": "https://github.com/arifinhabibi/whatsapp-sending-message",
     "require": {
         "php": ">=7.4|<8.4"

@@ -21,5 +21,5 @@ composer require arifinhabibi/whatsapp-sending-message
 
 ## 📝 License
 
-Copyright © 2021 [arifinhabibi](https://github.com/arifinhabibi). <br />
-This project is [MIT](https://github.com/arifinhabibi/whatsapp-sending-message/LICENSE) licensed.
+Copyright © 2023 [arifinhabibi](https://github.com/arifinhabibi). <br />
+This project is [MIT](https://github.com/arifinhabibi/whatsapp-sending-message/blob/main/LICENSE) licensed.
