@@ -6,7 +6,7 @@ class Main{
         $this->var = $var;
     }
 
-    function halo(){
+    function Test(){
         return "hallo";
     }
 }
