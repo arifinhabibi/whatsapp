@@ -7,6 +7,10 @@ class Main{
     }
 
     function Hallo(){
+        for ($i=0; $i < 9; $i++) { 
+            # code...
+            var_dump($i);
+        }
         return "hallo";
     }
 }
