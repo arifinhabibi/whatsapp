@@ -7,7 +7,7 @@ class Main{
     }
 
     function halo(){
-        return "hai";
+        return "hallo";
     }
 }
 
