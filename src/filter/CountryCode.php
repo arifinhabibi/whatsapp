@@ -7,7 +7,6 @@ class CountryCode {
     }
 
     public function filter(string $targetNumber){
-        dd($this->dataCountries);
         $convertingNumber = str_split($targetNumber);
         $filterNumber = array_map(function($value){
             if ($convertingNumber[0] == "0") {
