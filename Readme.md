@@ -1,13 +1,13 @@
 
 # package laravel for whatsapp sending message
 
-[![Latest Stable Version](http://poser.pugx.org/arifinhabibi/whatsapp-sending-message/v/stable.svg)](https://packagist.org/packages/arifinhabibi/whatsapp-sending-message) [![Total Downloads](http://poser.pugx.org/arifinhabibi/whatsapp-sending-message/downloads)](https://packagist.org/packages/arifinhabibi/whatsapp-sending-message) [![License](http://poser.pugx.org/arifinhabibi/whatsapp-sending-message/license)](https://packagist.org/packages/arifinhabibi/whatsapp-sending-message)
+[![Latest Stable Version](http://poser.pugx.org/arifinhabibi/whatsapp-sending-message/v/stable.svg)](https://packagist.org/packages/arifinhabibi/whatsapp-sending-message) [![Total Downloads](http://poser.pugx.org/arifinhabibi/whatsapp-sending-message/downloads)](https://packagist.org/packages/arifinhabibi/whatsapp-sending-message) [![License](https://poser.pugx.org/arifinhabibi/whatsapp-sending-message/license)](https://packagist.org/packages/arifinhabibi/whatsapp-sending-message)
 
-I'll tell you how to installation or setup this package into your project laravel, please follow this way.
+I'll tell you how to installation or setup this package into your project laravel, please follow this step.
 
 ## Requirements Tools
 
-- php 7.4 | 8.4
+- php >=7.4 | <8.4
 - composer has been installed on your system
 
 ## Installation
