@@ -8,7 +8,7 @@
         "message",
         "laravel whatsapp sending message"
     ],
-    "version": "v1.0.3",
+    "version": "v1.0.5",
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/arifinhabibi/whatsapp-sending-message",
