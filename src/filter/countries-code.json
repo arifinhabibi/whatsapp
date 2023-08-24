@@ -11,7 +11,8 @@
     "Phone Code": 93,
     "Continent": "Asia",
     "Capital": "Kabul",
-    "Time Zone in Capital": "Asia/Kabul"
+    "Time Zone in Capital": "Asia/Kabul",
+    "Currency": "Afghani"
   },
   {
     "Country Name": "Albania",
@@ -25,7 +26,8 @@
     "Phone Code": 355,
     "Continent": "Europe",
     "Capital": "Tirana",
-    "Time Zone in Capital": "Europe/Tirane"
+    "Time Zone in Capital": "Europe/Tirane",
+    "Currency": "Lek"
   },
   {
     "Country Name": "Algeria",
@@ -39,7 +41,8 @@
     "Phone Code": 213,
     "Continent": "Africa",
     "Capital": "Algiers",
-    "Time Zone in Capital": "Africa/Algiers"
+    "Time Zone in Capital": "Africa/Algiers",
+    "Currency": "Dinar"
   },
   {
     "Country Name": "American Samoa",
@@ -53,7 +56,8 @@
     "Phone Code": "1-684",
     "Continent": "Oceania",
     "Capital": "Pago Pago",
-    "Time Zone in Capital": "Pacific/Pago_Pago"
+    "Time Zone in Capital": "Pacific/Pago_Pago",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Andorra",
@@ -67,7 +71,8 @@
     "Phone Code": 376,
     "Continent": "Europe",
     "Capital": "Andorra la Vella",
-    "Time Zone in Capital": "Europe/Andorra"
+    "Time Zone in Capital": "Europe/Andorra",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Angola",
@@ -81,7 +86,8 @@
     "Phone Code": 244,
     "Continent": "Africa",
     "Capital": "Luanda",
-    "Time Zone in Capital": "Africa/Lagos"
+    "Time Zone in Capital": "Africa/Lagos",
+    "Currency": "Kwanza"
   },
   {
     "Country Name": "Anguilla",
@@ -95,7 +101,8 @@
     "Phone Code": "1-264",
     "Continent": "North America",
     "Capital": "The Valley",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Antarctica",
@@ -109,7 +116,8 @@
     "Phone Code": 672,
     "Continent": "Antarctica",
     "Capital": "",
-    "Time Zone in Capital": "Antarctica/Troll"
+    "Time Zone in Capital": "Antarctica/Troll",
+    "Currency": ""
   },
   {
     "Country Name": "Antigua and Barbuda",
@@ -123,7 +131,8 @@
     "Phone Code": "1-268",
     "Continent": "North America",
     "Capital": "St. John's",
-    "Time Zone in Capital": "America/Antigua"
+    "Time Zone in Capital": "America/Antigua",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Argentina",
@@ -137,7 +146,8 @@
     "Phone Code": 54,
     "Continent": "South America",
     "Capital": "Buenos Aires",
-    "Time Zone in Capital": "America/Argentina/Buenos_Aires"
+    "Time Zone in Capital": "America/Argentina/Buenos_Aires",
+    "Currency": "Peso"
   },
   {
     "Country Name": "Armenia",
@@ -151,7 +161,8 @@
     "Phone Code": 374,
     "Continent": "Asia",
     "Capital": "Yerevan",
-    "Time Zone in Capital": "Asia/Yerevan"
+    "Time Zone in Capital": "Asia/Yerevan",
+    "Currency": "Dram"
   },
   {
     "Country Name": "Aruba",
@@ -165,7 +176,8 @@
     "Phone Code": 297,
     "Continent": "North America",
     "Capital": "Oranjestad",
-    "Time Zone in Capital": "America/Curacao"
+    "Time Zone in Capital": "America/Curacao",
+    "Currency": "Guilder"
   },
   {
     "Country Name": "Australia",
@@ -179,7 +191,8 @@
     "Phone Code": 61,
     "Continent": "Oceania",
     "Capital": "Canberra",
-    "Time Zone in Capital": "Australia/Sydney"
+    "Time Zone in Capital": "Australia/Sydney",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Austria",
@@ -193,7 +206,8 @@
     "Phone Code": 43,
     "Continent": "Europe",
     "Capital": "Vienna",
-    "Time Zone in Capital": "Europe/Vienna"
+    "Time Zone in Capital": "Europe/Vienna",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Azerbaijan",
@@ -207,7 +221,8 @@
     "Phone Code": 994,
     "Continent": "Asia",
     "Capital": "Baku",
-    "Time Zone in Capital": "Asia/Baku"
+    "Time Zone in Capital": "Asia/Baku",
+    "Currency": "Manat"
   },
   {
     "Country Name": "Bahamas",
@@ -221,7 +236,8 @@
     "Phone Code": "1-242",
     "Continent": "North America",
     "Capital": "Nassau",
-    "Time Zone in Capital": "America/Nassau"
+    "Time Zone in Capital": "America/Nassau",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Bahrain",
@@ -235,7 +251,8 @@
     "Phone Code": 973,
     "Continent": "Asia",
     "Capital": "Manama",
-    "Time Zone in Capital": "Asia/Bahrain"
+    "Time Zone in Capital": "Asia/Bahrain",
+    "Currency": "Dinar"
   },
   {
     "Country Name": "Bangladesh",
@@ -249,7 +266,8 @@
     "Phone Code": 880,
     "Continent": "Asia",
     "Capital": "Dhaka",
-    "Time Zone in Capital": "Asia/Dhaka"
+    "Time Zone in Capital": "Asia/Dhaka",
+    "Currency": "Taka"
   },
   {
     "Country Name": "Barbados",
@@ -263,7 +281,8 @@
     "Phone Code": "1-246",
     "Continent": "North America",
     "Capital": "Bridgetown",
-    "Time Zone in Capital": "America/Barbados"
+    "Time Zone in Capital": "America/Barbados",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Belarus",
@@ -277,7 +296,8 @@
     "Phone Code": 375,
     "Continent": "Europe",
     "Capital": "Minsk",
-    "Time Zone in Capital": "Europe/Minsk"
+    "Time Zone in Capital": "Europe/Minsk",
+    "Currency": "Ruble"
   },
   {
     "Country Name": "Belgium",
@@ -291,7 +311,8 @@
     "Phone Code": 32,
     "Continent": "Europe",
     "Capital": "Brussels",
-    "Time Zone in Capital": "Europe/Brussels"
+    "Time Zone in Capital": "Europe/Brussels",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Belize",
@@ -305,7 +326,8 @@
     "Phone Code": 501,
     "Continent": "North America",
     "Capital": "Belmopan",
-    "Time Zone in Capital": "America/Belize"
+    "Time Zone in Capital": "America/Belize",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Benin",
@@ -319,7 +341,8 @@
     "Phone Code": 229,
     "Continent": "Africa",
     "Capital": "Porto-Novo",
-    "Time Zone in Capital": "Africa/Lagos"
+    "Time Zone in Capital": "Africa/Lagos",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Bermuda",
@@ -333,7 +356,8 @@
     "Phone Code": "1-441",
     "Continent": "North America",
     "Capital": "Hamilton",
-    "Time Zone in Capital": "Atlantic/Bermuda"
+    "Time Zone in Capital": "Atlantic/Bermuda",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Bhutan",
@@ -347,7 +371,8 @@
     "Phone Code": 975,
     "Continent": "Asia",
     "Capital": "Thimphu",
-    "Time Zone in Capital": "Asia/Thimphu"
+    "Time Zone in Capital": "Asia/Thimphu",
+    "Currency": "Ngultrum"
   },
   {
     "Country Name": "Bolivia",
@@ -361,7 +386,8 @@
     "Phone Code": 591,
     "Continent": "South America",
     "Capital": "Sucre",
-    "Time Zone in Capital": "America/La_Paz"
+    "Time Zone in Capital": "America/La_Paz",
+    "Currency": "Boliviano"
   },
   {
     "Country Name": "Bosnia and Herzegovina",
@@ -375,7 +401,8 @@
     "Phone Code": 387,
     "Continent": "Europe",
     "Capital": "Sarajevo",
-    "Time Zone in Capital": "Europe/Belgrade"
+    "Time Zone in Capital": "Europe/Belgrade",
+    "Currency": "Marka"
   },
   {
     "Country Name": "Botswana",
@@ -389,7 +416,8 @@
     "Phone Code": 267,
     "Continent": "Africa",
     "Capital": "Gaborone",
-    "Time Zone in Capital": "Africa/Maputo"
+    "Time Zone in Capital": "Africa/Maputo",
+    "Currency": "Pula"
   },
   {
     "Country Name": "Brazil",
@@ -403,7 +431,8 @@
     "Phone Code": 55,
     "Continent": "South America",
     "Capital": "Brasilia",
-    "Time Zone in Capital": "America/Sao_Paulo"
+    "Time Zone in Capital": "America/Sao_Paulo",
+    "Currency": "Real"
   },
   {
     "Country Name": "British Indian Ocean Territory",
@@ -417,7 +446,8 @@
     "Phone Code": 246,
     "Continent": "Asia",
     "Capital": "Diego Garcia",
-    "Time Zone in Capital": "Indian/Chagos"
+    "Time Zone in Capital": "Indian/Chagos",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "British Virgin Islands",
@@ -431,7 +461,8 @@
     "Phone Code": "1-284",
     "Continent": "North America",
     "Capital": "Road Town",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Brunei",
@@ -445,7 +476,8 @@
     "Phone Code": 673,
     "Continent": "Asia",
     "Capital": "Bandar Seri Begawan",
-    "Time Zone in Capital": "Asia/Brunei"
+    "Time Zone in Capital": "Asia/Brunei",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Bulgaria",
@@ -459,7 +491,8 @@
     "Phone Code": 359,
     "Continent": "Europe",
     "Capital": "Sofia",
-    "Time Zone in Capital": "Europe/Sofia"
+    "Time Zone in Capital": "Europe/Sofia",
+    "Currency": "Lev"
   },
   {
     "Country Name": "Burkina Faso",
@@ -473,7 +506,8 @@
     "Phone Code": 226,
     "Continent": "Africa",
     "Capital": "Ouagadougou",
-    "Time Zone in Capital": "Africa/Abidjan"
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Burundi",
@@ -487,7 +521,8 @@
     "Phone Code": 257,
     "Continent": "Africa",
     "Capital": "Bujumbura",
-    "Time Zone in Capital": "Africa/Maputo"
+    "Time Zone in Capital": "Africa/Maputo",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Cambodia",
@@ -501,7 +536,8 @@
     "Phone Code": 855,
     "Continent": "Asia",
     "Capital": "Phnom Penh",
-    "Time Zone in Capital": "Asia/Phnom_Penh"
+    "Time Zone in Capital": "Asia/Phnom_Penh",
+    "Currency": "Riels"
   },
   {
     "Country Name": "Cameroon",
@@ -515,7 +551,8 @@
     "Phone Code": 237,
     "Continent": "Africa",
     "Capital": "Yaounde",
-    "Time Zone in Capital": "Africa/Lagos"
+    "Time Zone in Capital": "Africa/Lagos",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Canada",
@@ -529,7 +566,8 @@
     "Phone Code": 1,
     "Continent": "North America",
     "Capital": "Ottawa",
-    "Time Zone in Capital": "America/Toronto"
+    "Time Zone in Capital": "America/Toronto",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Cape Verde",
@@ -543,7 +581,8 @@
     "Phone Code": 238,
     "Continent": "Africa",
     "Capital": "Praia",
-    "Time Zone in Capital": "Atlantic/Cape_Verde"
+    "Time Zone in Capital": "Atlantic/Cape_Verde",
+    "Currency": "Escudo"
   },
   {
     "Country Name": "Cayman Islands",
@@ -557,7 +596,8 @@
     "Phone Code": "1-345",
     "Continent": "North America",
     "Capital": "George Town",
-    "Time Zone in Capital": "America/Cayman"
+    "Time Zone in Capital": "America/Cayman",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Central African Republic",
@@ -571,7 +611,8 @@
     "Phone Code": 236,
     "Continent": "Africa",
     "Capital": "Bangui",
-    "Time Zone in Capital": "Africa/Lagos"
+    "Time Zone in Capital": "Africa/Lagos",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Chad",
@@ -585,7 +626,8 @@
     "Phone Code": 235,
     "Continent": "Africa",
     "Capital": "N'Djamena",
-    "Time Zone in Capital": "Africa/Ndjamena"
+    "Time Zone in Capital": "Africa/Ndjamena",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Chile",
@@ -599,7 +641,8 @@
     "Phone Code": 56,
     "Continent": "South America",
     "Capital": "Santiago",
-    "Time Zone in Capital": "America/Santiago"
+    "Time Zone in Capital": "America/Santiago",
+    "Currency": "Peso"
   },
   {
     "Country Name": "China",
@@ -613,7 +656,8 @@
     "Phone Code": 86,
     "Continent": "Asia",
     "Capital": "Beijing",
-    "Time Zone in Capital": "Asia/Shanghai"
+    "Time Zone in Capital": "Asia/Shanghai",
+    "Currency": "Yuan Renminbi"
   },
   {
     "Country Name": "Christmas Island",
@@ -627,7 +671,8 @@
     "Phone Code": 61,
     "Continent": "Asia",
     "Capital": "Flying Fish Cove",
-    "Time Zone in Capital": "Indian/Christmas"
+    "Time Zone in Capital": "Indian/Christmas",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Cocos Islands",
@@ -641,7 +686,8 @@
     "Phone Code": 61,
     "Continent": "Asia",
     "Capital": "West Island",
-    "Time Zone in Capital": "Indian/Cocos"
+    "Time Zone in Capital": "Indian/Cocos",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Colombia",
@@ -655,7 +701,8 @@
     "Phone Code": 57,
     "Continent": "South America",
     "Capital": "Bogota",
-    "Time Zone in Capital": "America/Bogota"
+    "Time Zone in Capital": "America/Bogota",
+    "Currency": "Peso"
   },
   {
     "Country Name": "Comoros",
@@ -669,7 +716,8 @@
     "Phone Code": 269,
     "Continent": "Africa",
     "Capital": "Moroni",
-    "Time Zone in Capital": "Indian/Comoro"
+    "Time Zone in Capital": "Indian/Comoro",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Cook Islands",
@@ -683,7 +731,8 @@
     "Phone Code": 682,
     "Continent": "Oceania",
     "Capital": "Avarua",
-    "Time Zone in Capital": "Pacific/Rarotonga"
+    "Time Zone in Capital": "Pacific/Rarotonga",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Costa Rica",
@@ -697,7 +746,8 @@
     "Phone Code": 506,
     "Continent": "North America",
     "Capital": "San Jose",
-    "Time Zone in Capital": "America/Costa_Rica"
+    "Time Zone in Capital": "America/Costa_Rica",
+    "Currency": "Colon"
   },
   {
     "Country Name": "Croatia",
@@ -711,7 +761,8 @@
     "Phone Code": 385,
     "Continent": "Europe",
     "Capital": "Zagreb",
-    "Time Zone in Capital": "Europe/Belgrade"
+    "Time Zone in Capital": "Europe/Belgrade",
+    "Currency": "Kuna"
   },
   {
     "Country Name": "Cuba",
@@ -725,7 +776,8 @@
     "Phone Code": 53,
     "Continent": "North America",
     "Capital": "Havana",
-    "Time Zone in Capital": "America/Havana"
+    "Time Zone in Capital": "America/Havana",
+    "Currency": "Peso"
   },
   {
     "Country Name": "Curacao",
@@ -739,7 +791,8 @@
     "Phone Code": 599,
     "Continent": "North America",
     "Capital": "Willemstad",
-    "Time Zone in Capital": "America/Curacao"
+    "Time Zone in Capital": "America/Curacao",
+    "Currency": "Guilder"
   },
   {
     "Country Name": "Cyprus",
@@ -753,7 +806,8 @@
     "Phone Code": 357,
     "Continent": "Europe",
     "Capital": "Nicosia",
-    "Time Zone in Capital": "Asia/Nicosia"
+    "Time Zone in Capital": "Asia/Nicosia",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Czech Republic",
@@ -767,7 +821,8 @@
     "Phone Code": 420,
     "Continent": "Europe",
     "Capital": "Prague",
-    "Time Zone in Capital": "Europe/Prague"
+    "Time Zone in Capital": "Europe/Prague",
+    "Currency": "Koruna"
   },
   {
     "Country Name": "Democratic Republic of the Congo",
@@ -781,7 +836,8 @@
     "Phone Code": 243,
     "Continent": "Africa",
     "Capital": "Kinshasa",
-    "Time Zone in Capital": "Africa/Lagos"
+    "Time Zone in Capital": "Africa/Lagos",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Denmark",
@@ -795,7 +851,8 @@
     "Phone Code": 45,
     "Continent": "Europe",
     "Capital": "Copenhagen",
-    "Time Zone in Capital": "Europe/Copenhagen"
+    "Time Zone in Capital": "Europe/Copenhagen",
+    "Currency": "Krone"
   },
   {
     "Country Name": "Djibouti",
@@ -809,7 +866,8 @@
     "Phone Code": 253,
     "Continent": "Africa",
     "Capital": "Djibouti",
-    "Time Zone in Capital": "Africa/Djibouti"
+    "Time Zone in Capital": "Africa/Djibouti",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Dominica",
@@ -823,7 +881,8 @@
     "Phone Code": "1-767",
     "Continent": "North America",
     "Capital": "Roseau",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Dominican Republic",
@@ -837,7 +896,8 @@
     "Phone Code": "1-809, 1-829, 1-849",
     "Continent": "North America",
     "Capital": "Santo Domingo",
-    "Time Zone in Capital": "America/Santo_Domingo"
+    "Time Zone in Capital": "America/Santo_Domingo",
+    "Currency": "Peso"
   },
   {
     "Country Name": "East Timor",
@@ -851,7 +911,8 @@
     "Phone Code": 670,
     "Continent": "Oceania",
     "Capital": "Dili",
-    "Time Zone in Capital": "Asia/Dili"
+    "Time Zone in Capital": "Asia/Dili",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Ecuador",
@@ -865,7 +926,8 @@
     "Phone Code": 593,
     "Continent": "South America",
     "Capital": "Quito",
-    "Time Zone in Capital": "America/Guayaquil"
+    "Time Zone in Capital": "America/Guayaquil",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Egypt",
@@ -879,7 +941,8 @@
     "Phone Code": 20,
     "Continent": "Africa",
     "Capital": "Cairo",
-    "Time Zone in Capital": "Africa/Cairo"
+    "Time Zone in Capital": "Africa/Cairo",
+    "Currency": "Pound"
   },
   {
     "Country Name": "El Salvador",
@@ -893,7 +956,8 @@
     "Phone Code": 503,
     "Continent": "North America",
     "Capital": "San Salvador",
-    "Time Zone in Capital": "America/El_Salvador"
+    "Time Zone in Capital": "America/El_Salvador",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Equatorial Guinea",
@@ -907,7 +971,8 @@
     "Phone Code": 240,
     "Continent": "Africa",
     "Capital": "Malabo",
-    "Time Zone in Capital": "Africa/Lagos"
+    "Time Zone in Capital": "Africa/Lagos",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Eritrea",
@@ -921,7 +986,8 @@
     "Phone Code": 291,
     "Continent": "Africa",
     "Capital": "Asmara",
-    "Time Zone in Capital": "Africa/Asmara"
+    "Time Zone in Capital": "Africa/Asmara",
+    "Currency": "Nakfa"
   },
   {
     "Country Name": "Estonia",
@@ -935,7 +1001,8 @@
     "Phone Code": 372,
     "Continent": "Europe",
     "Capital": "Tallinn",
-    "Time Zone in Capital": "Europe/Tallinn"
+    "Time Zone in Capital": "Europe/Tallinn",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Ethiopia",
@@ -949,7 +1016,8 @@
     "Phone Code": 251,
     "Continent": "Africa",
     "Capital": "Addis Ababa",
-    "Time Zone in Capital": "Africa/Addis_Ababa"
+    "Time Zone in Capital": "Africa/Addis_Ababa",
+    "Currency": "Birr"
   },
   {
     "Country Name": "Falkland Islands",
@@ -963,7 +1031,8 @@
     "Phone Code": 500,
     "Continent": "South America",
     "Capital": "Stanley",
-    "Time Zone in Capital": "Atlantic/Stanley"
+    "Time Zone in Capital": "Atlantic/Stanley",
+    "Currency": "Pound"
   },
   {
     "Country Name": "Faroe Islands",
@@ -977,7 +1046,8 @@
     "Phone Code": 298,
     "Continent": "Europe",
     "Capital": "Torshavn",
-    "Time Zone in Capital": "Atlantic/Faroe"
+    "Time Zone in Capital": "Atlantic/Faroe",
+    "Currency": "Krone"
   },
   {
     "Country Name": "Fiji",
@@ -991,7 +1061,8 @@
     "Phone Code": 679,
     "Continent": "Oceania",
     "Capital": "Suva",
-    "Time Zone in Capital": "Pacific/Fiji"
+    "Time Zone in Capital": "Pacific/Fiji",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Finland",
@@ -1005,7 +1076,8 @@
     "Phone Code": 358,
     "Continent": "Europe",
     "Capital": "Helsinki",
-    "Time Zone in Capital": "Europe/Helsinki"
+    "Time Zone in Capital": "Europe/Helsinki",
+    "Currency": "Euro"
   },
   {
     "Country Name": "France",
@@ -1019,7 +1091,8 @@
     "Phone Code": 33,
     "Continent": "Europe",
     "Capital": "Paris",
-    "Time Zone in Capital": "Europe/Paris"
+    "Time Zone in Capital": "Europe/Paris",
+    "Currency": "Euro"
   },
   {
     "Country Name": "French Polynesia",
@@ -1033,7 +1106,8 @@
     "Phone Code": 689,
     "Continent": "Oceania",
     "Capital": "Papeete",
-    "Time Zone in Capital": "Pacific/Tahiti"
+    "Time Zone in Capital": "Pacific/Tahiti",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Gabon",
@@ -1047,7 +1121,8 @@
     "Phone Code": 241,
     "Continent": "Africa",
     "Capital": "Libreville",
-    "Time Zone in Capital": "Africa/Lagos"
+    "Time Zone in Capital": "Africa/Lagos",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Gambia",
@@ -1061,7 +1136,8 @@
     "Phone Code": 220,
     "Continent": "Africa",
     "Capital": "Banjul",
-    "Time Zone in Capital": "Africa/Abidjan"
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Dalasi"
   },
   {
     "Country Name": "Georgia",
@@ -1075,7 +1151,8 @@
     "Phone Code": 995,
     "Continent": "Asia",
     "Capital": "Tbilisi",
-    "Time Zone in Capital": "Asia/Tbilisi"
+    "Time Zone in Capital": "Asia/Tbilisi",
+    "Currency": "Lari"
   },
   {
     "Country Name": "Germany",
@@ -1089,7 +1166,8 @@
     "Phone Code": 49,
     "Continent": "Europe",
     "Capital": "Berlin",
-    "Time Zone in Capital": "Europe/Berlin"
+    "Time Zone in Capital": "Europe/Berlin",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Ghana",
@@ -1103,7 +1181,8 @@
     "Phone Code": 233,
     "Continent": "Africa",
     "Capital": "Accra",
-    "Time Zone in Capital": "Africa/Accra"
+    "Time Zone in Capital": "Africa/Accra",
+    "Currency": "Cedi"
   },
   {
     "Country Name": "Gibraltar",
@@ -1117,7 +1196,8 @@
     "Phone Code": 350,
     "Continent": "Europe",
     "Capital": "Gibraltar",
-    "Time Zone in Capital": "Europe/Gibraltar"
+    "Time Zone in Capital": "Europe/Gibraltar",
+    "Currency": "Pound"
   },
   {
     "Country Name": "Greece",
@@ -1131,7 +1211,8 @@
     "Phone Code": 30,
     "Continent": "Europe",
     "Capital": "Athens",
-    "Time Zone in Capital": "Europe/Athens"
+    "Time Zone in Capital": "Europe/Athens",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Greenland",
@@ -1145,7 +1226,8 @@
     "Phone Code": 299,
     "Continent": "North America",
     "Capital": "Nuuk",
-    "Time Zone in Capital": "America/Godthab"
+    "Time Zone in Capital": "America/Godthab",
+    "Currency": "Krone"
   },
   {
     "Country Name": "Grenada",
@@ -1159,7 +1241,8 @@
     "Phone Code": "1-473",
     "Continent": "North America",
     "Capital": "St. George's",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Guam",
@@ -1173,7 +1256,8 @@
     "Phone Code": "1-671",
     "Continent": "Oceania",
     "Capital": "Hagatna",
-    "Time Zone in Capital": "Pacific/Guam"
+    "Time Zone in Capital": "Pacific/Guam",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Guatemala",
@@ -1187,7 +1271,8 @@
     "Phone Code": 502,
     "Continent": "North America",
     "Capital": "Guatemala City",
-    "Time Zone in Capital": "America/Guatemala"
+    "Time Zone in Capital": "America/Guatemala",
+    "Currency": "Quetzal"
   },
   {
     "Country Name": "Guernsey",
@@ -1201,7 +1286,8 @@
     "Phone Code": "44-1481",
     "Continent": "Europe",
     "Capital": "St Peter Port",
-    "Time Zone in Capital": "Europe/London"
+    "Time Zone in Capital": "Europe/London",
+    "Currency": "Pound"
   },
   {
     "Country Name": "Guinea",
@@ -1215,7 +1301,8 @@
     "Phone Code": 224,
     "Continent": "Africa",
     "Capital": "Conakry",
-    "Time Zone in Capital": "Africa/Abidjan"
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Guinea-Bissau",
@@ -1229,7 +1316,8 @@
     "Phone Code": 245,
     "Continent": "Africa",
     "Capital": "Bissau",
-    "Time Zone in Capital": "Africa/Bissau"
+    "Time Zone in Capital": "Africa/Bissau",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Guyana",
@@ -1243,7 +1331,8 @@
     "Phone Code": 592,
     "Continent": "South America",
     "Capital": "Georgetown",
-    "Time Zone in Capital": "America/Guyana"
+    "Time Zone in Capital": "America/Guyana",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Haiti",
@@ -1257,7 +1346,8 @@
     "Phone Code": 509,
     "Continent": "North America",
     "Capital": "Port-au-Prince",
-    "Time Zone in Capital": "America/Port-au-Prince"
+    "Time Zone in Capital": "America/Port-au-Prince",
+    "Currency": "Gourde"
   },
   {
     "Country Name": "Honduras",
@@ -1271,7 +1361,8 @@
     "Phone Code": 504,
     "Continent": "North America",
     "Capital": "Tegucigalpa",
-    "Time Zone in Capital": "America/Tegucigalpa"
+    "Time Zone in Capital": "America/Tegucigalpa",
+    "Currency": "Lempira"
   },
   {
     "Country Name": "Hong Kong",
@@ -1285,7 +1376,8 @@
     "Phone Code": 852,
     "Continent": "Asia",
     "Capital": "Hong Kong",
-    "Time Zone in Capital": "Asia/Hong_Kong"
+    "Time Zone in Capital": "Asia/Hong_Kong",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Hungary",
@@ -1299,7 +1391,8 @@
     "Phone Code": 36,
     "Continent": "Europe",
     "Capital": "Budapest",
-    "Time Zone in Capital": "Europe/Budapest"
+    "Time Zone in Capital": "Europe/Budapest",
+    "Currency": "Forint"
   },
   {
     "Country Name": "Iceland",
@@ -1313,7 +1406,8 @@
     "Phone Code": 354,
     "Continent": "Europe",
     "Capital": "Reykjavik",
-    "Time Zone in Capital": "Atlantic/Reykjavik"
+    "Time Zone in Capital": "Atlantic/Reykjavik",
+    "Currency": "Krona"
   },
   {
     "Country Name": "India",
@@ -1327,7 +1421,8 @@
     "Phone Code": 91,
     "Continent": "Asia",
     "Capital": "New Delhi",
-    "Time Zone in Capital": "Asia/Kolkata"
+    "Time Zone in Capital": "Asia/Kolkata",
+    "Currency": "Rupee"
   },
   {
     "Country Name": "Indonesia",
@@ -1341,7 +1436,8 @@
     "Phone Code": 62,
     "Continent": "Asia",
     "Capital": "Jakarta",
-    "Time Zone in Capital": "Asia/Jakarta"
+    "Time Zone in Capital": "Asia/Jakarta",
+    "Currency": "Rupiah"
   },
   {
     "Country Name": "Iran",
@@ -1355,7 +1451,8 @@
     "Phone Code": 98,
     "Continent": "Asia",
     "Capital": "Tehran",
-    "Time Zone in Capital": "Asia/Tehran"
+    "Time Zone in Capital": "Asia/Tehran",
+    "Currency": "Rial"
   },
   {
     "Country Name": "Iraq",
@@ -1369,7 +1466,8 @@
     "Phone Code": 964,
     "Continent": "Asia",
     "Capital": "Baghdad",
-    "Time Zone in Capital": "Asia/Baghdad"
+    "Time Zone in Capital": "Asia/Baghdad",
+    "Currency": "Dinar"
   },
   {
     "Country Name": "Ireland",
@@ -1383,7 +1481,8 @@
     "Phone Code": 353,
     "Continent": "Europe",
     "Capital": "Dublin",
-    "Time Zone in Capital": "Europe/Dublin"
+    "Time Zone in Capital": "Europe/Dublin",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Isle of Man",
@@ -1397,7 +1496,8 @@
     "Phone Code": "44-1624",
     "Continent": "Europe",
     "Capital": "Douglas, Isle of Man",
-    "Time Zone in Capital": "Europe/London"
+    "Time Zone in Capital": "Europe/London",
+    "Currency": "Pound"
   },
   {
     "Country Name": "Israel",
@@ -1411,7 +1511,8 @@
     "Phone Code": 972,
     "Continent": "Asia",
     "Capital": "Jerusalem",
-    "Time Zone in Capital": "Asia/Jerusalem"
+    "Time Zone in Capital": "Asia/Jerusalem",
+    "Currency": "Shekel"
   },
   {
     "Country Name": "Italy",
@@ -1425,7 +1526,8 @@
     "Phone Code": 39,
     "Continent": "Europe",
     "Capital": "Rome",
-    "Time Zone in Capital": "Europe/Rome"
+    "Time Zone in Capital": "Europe/Rome",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Ivory Coast",
@@ -1439,7 +1541,8 @@
     "Phone Code": 225,
     "Continent": "Africa",
     "Capital": "Yamoussoukro",
-    "Time Zone in Capital": "Africa/Abidjan"
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Jamaica",
@@ -1453,7 +1556,8 @@
     "Phone Code": "1-876",
     "Continent": "North America",
     "Capital": "Kingston",
-    "Time Zone in Capital": "America/Jamaica"
+    "Time Zone in Capital": "America/Jamaica",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Japan",
@@ -1467,7 +1571,8 @@
     "Phone Code": 81,
     "Continent": "Asia",
     "Capital": "Tokyo",
-    "Time Zone in Capital": "Asia/Tokyo"
+    "Time Zone in Capital": "Asia/Tokyo",
+    "Currency": "Yen"
   },
   {
     "Country Name": "Jersey",
@@ -1481,7 +1586,8 @@
     "Phone Code": "44-1534",
     "Continent": "Europe",
     "Capital": "Saint Helier",
-    "Time Zone in Capital": "Europe/London"
+    "Time Zone in Capital": "Europe/London",
+    "Currency": "Pound"
   },
   {
     "Country Name": "Jordan",
@@ -1495,7 +1601,8 @@
     "Phone Code": 962,
     "Continent": "Asia",
     "Capital": "Amman",
-    "Time Zone in Capital": "Asia/Amman"
+    "Time Zone in Capital": "Asia/Amman",
+    "Currency": "Dinar"
   },
   {
     "Country Name": "Kazakhstan",
@@ -1509,7 +1616,8 @@
     "Phone Code": 7,
     "Continent": "Asia",
     "Capital": "Astana",
-    "Time Zone in Capital": "Asia/Almaty"
+    "Time Zone in Capital": "Asia/Almaty",
+    "Currency": "Tenge"
   },
   {
     "Country Name": "Kenya",
@@ -1523,7 +1631,8 @@
     "Phone Code": 254,
     "Continent": "Africa",
     "Capital": "Nairobi",
-    "Time Zone in Capital": "Africa/Nairobi"
+    "Time Zone in Capital": "Africa/Nairobi",
+    "Currency": "Shilling"
   },
   {
     "Country Name": "Kiribati",
@@ -1537,7 +1646,8 @@
     "Phone Code": 686,
     "Continent": "Oceania",
     "Capital": "Tarawa",
-    "Time Zone in Capital": "Pacific/Tarawa"
+    "Time Zone in Capital": "Pacific/Tarawa",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Kosovo",
@@ -1551,7 +1661,8 @@
     "Phone Code": 383,
     "Continent": "Europe",
     "Capital": "Pristina",
-    "Time Zone in Capital": "Europe/Belgrade"
+    "Time Zone in Capital": "Europe/Belgrade",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Kuwait",
@@ -1565,7 +1676,8 @@
     "Phone Code": 965,
     "Continent": "Asia",
     "Capital": "Kuwait City",
-    "Time Zone in Capital": "Asia/Kuwait"
+    "Time Zone in Capital": "Asia/Kuwait",
+    "Currency": "Dinar"
   },
   {
     "Country Name": "Kyrgyzstan",
@@ -1579,7 +1691,8 @@
     "Phone Code": 996,
     "Continent": "Asia",
     "Capital": "Bishkek",
-    "Time Zone in Capital": "Asia/Bishkek"
+    "Time Zone in Capital": "Asia/Bishkek",
+    "Currency": "Som"
   },
   {
     "Country Name": "Laos",
@@ -1593,7 +1706,8 @@
     "Phone Code": 856,
     "Continent": "Asia",
     "Capital": "Vientiane",
-    "Time Zone in Capital": "Asia/Vientiane"
+    "Time Zone in Capital": "Asia/Vientiane",
+    "Currency": "Kip"
   },
   {
     "Country Name": "Latvia",
@@ -1607,7 +1721,8 @@
     "Phone Code": 371,
     "Continent": "Europe",
     "Capital": "Riga",
-    "Time Zone in Capital": "Europe/Riga"
+    "Time Zone in Capital": "Europe/Riga",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Lebanon",
@@ -1621,7 +1736,8 @@
     "Phone Code": 961,
     "Continent": "Asia",
     "Capital": "Beirut",
-    "Time Zone in Capital": "Asia/Beirut"
+    "Time Zone in Capital": "Asia/Beirut",
+    "Currency": "Pound"
   },
   {
     "Country Name": "Lesotho",
@@ -1635,7 +1751,8 @@
     "Phone Code": 266,
     "Continent": "Africa",
     "Capital": "Maseru",
-    "Time Zone in Capital": "Africa/Johannesburg"
+    "Time Zone in Capital": "Africa/Johannesburg",
+    "Currency": "Loti"
   },
   {
     "Country Name": "Liberia",
@@ -1649,7 +1766,8 @@
     "Phone Code": 231,
     "Continent": "Africa",
     "Capital": "Monrovia",
-    "Time Zone in Capital": "Africa/Monrovia"
+    "Time Zone in Capital": "Africa/Monrovia",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Libya",
@@ -1663,7 +1781,8 @@
     "Phone Code": 218,
     "Continent": "Africa",
     "Capital": "Tripolis",
-    "Time Zone in Capital": "Africa/Tripoli"
+    "Time Zone in Capital": "Africa/Tripoli",
+    "Currency": "Dinar"
   },
   {
     "Country Name": "Liechtenstein",
@@ -1677,7 +1796,8 @@
     "Phone Code": 423,
     "Continent": "Europe",
     "Capital": "Vaduz",
-    "Time Zone in Capital": "Europe/Zurich"
+    "Time Zone in Capital": "Europe/Zurich",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Lithuania",
@@ -1691,7 +1811,8 @@
     "Phone Code": 370,
     "Continent": "Europe",
     "Capital": "Vilnius",
-    "Time Zone in Capital": "Europe/Vilnius"
+    "Time Zone in Capital": "Europe/Vilnius",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Luxembourg",
@@ -1705,7 +1826,8 @@
     "Phone Code": 352,
     "Continent": "Europe",
     "Capital": "Luxembourg",
-    "Time Zone in Capital": "Europe/Luxembourg"
+    "Time Zone in Capital": "Europe/Luxembourg",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Macau",
@@ -1719,7 +1841,8 @@
     "Phone Code": 853,
     "Continent": "Asia",
     "Capital": "Macao",
-    "Time Zone in Capital": "Asia/Macau"
+    "Time Zone in Capital": "Asia/Macau",
+    "Currency": "Pataca"
   },
   {
     "Country Name": "Macedonia",
@@ -1733,7 +1856,8 @@
     "Phone Code": 389,
     "Continent": "Europe",
     "Capital": "Skopje",
-    "Time Zone in Capital": "Europe/Belgrade"
+    "Time Zone in Capital": "Europe/Belgrade",
+    "Currency": "Denar"
   },
   {
     "Country Name": "Madagascar",
@@ -1747,7 +1871,8 @@
     "Phone Code": 261,
     "Continent": "Africa",
     "Capital": "Antananarivo",
-    "Time Zone in Capital": "Indian/Antananarivo"
+    "Time Zone in Capital": "Indian/Antananarivo",
+    "Currency": "Ariary"
   },
   {
     "Country Name": "Malawi",
@@ -1761,7 +1886,8 @@
     "Phone Code": 265,
     "Continent": "Africa",
     "Capital": "Lilongwe",
-    "Time Zone in Capital": "Africa/Maputo"
+    "Time Zone in Capital": "Africa/Maputo",
+    "Currency": "Kwacha"
   },
   {
     "Country Name": "Malaysia",
@@ -1775,7 +1901,8 @@
     "Phone Code": 60,
     "Continent": "Asia",
     "Capital": "Kuala Lumpur",
-    "Time Zone in Capital": "Asia/Kuala_Lumpur"
+    "Time Zone in Capital": "Asia/Kuala_Lumpur",
+    "Currency": "Ringgit"
   },
   {
     "Country Name": "Maldives",
@@ -1789,7 +1916,8 @@
     "Phone Code": 960,
     "Continent": "Asia",
     "Capital": "Male",
-    "Time Zone in Capital": "Indian/Maldives"
+    "Time Zone in Capital": "Indian/Maldives",
+    "Currency": "Rufiyaa"
   },
   {
     "Country Name": "Mali",
@@ -1803,7 +1931,8 @@
     "Phone Code": 223,
     "Continent": "Africa",
     "Capital": "Bamako",
-    "Time Zone in Capital": "Africa/Abidjan"
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Malta",
@@ -1817,7 +1946,8 @@
     "Phone Code": 356,
     "Continent": "Europe",
     "Capital": "Valletta",
-    "Time Zone in Capital": "Europe/Malta"
+    "Time Zone in Capital": "Europe/Malta",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Marshall Islands",
@@ -1831,7 +1961,8 @@
     "Phone Code": 692,
     "Continent": "Oceania",
     "Capital": "Majuro",
-    "Time Zone in Capital": "Pacific/Majuro"
+    "Time Zone in Capital": "Pacific/Majuro",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Mauritania",
@@ -1845,7 +1976,8 @@
     "Phone Code": 222,
     "Continent": "Africa",
     "Capital": "Nouakchott",
-    "Time Zone in Capital": "Africa/Abidjan"
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Ouguiya"
   },
   {
     "Country Name": "Mauritius",
@@ -1859,7 +1991,8 @@
     "Phone Code": 230,
     "Continent": "Africa",
     "Capital": "Port Louis",
-    "Time Zone in Capital": "Indian/Mauritius"
+    "Time Zone in Capital": "Indian/Mauritius",
+    "Currency": "Rupee"
   },
   {
     "Country Name": "Mayotte",
@@ -1873,7 +2006,8 @@
     "Phone Code": 262,
     "Continent": "Africa",
     "Capital": "Mamoudzou",
-    "Time Zone in Capital": "Indian/Mayotte"
+    "Time Zone in Capital": "Indian/Mayotte",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Mexico",
@@ -1887,7 +2021,8 @@
     "Phone Code": 52,
     "Continent": "North America",
     "Capital": "Mexico City",
-    "Time Zone in Capital": "America/Mexico_City"
+    "Time Zone in Capital": "America/Mexico_City",
+    "Currency": "Peso"
   },
   {
     "Country Name": "Micronesia",
@@ -1901,7 +2036,8 @@
     "Phone Code": 691,
     "Continent": "Oceania",
     "Capital": "Palikir",
-    "Time Zone in Capital": "Pacific/Pohnpei"
+    "Time Zone in Capital": "Pacific/Pohnpei",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Moldova",
@@ -1915,7 +2051,8 @@
     "Phone Code": 373,
     "Continent": "Europe",
     "Capital": "Chisinau",
-    "Time Zone in Capital": "Europe/Chisinau"
+    "Time Zone in Capital": "Europe/Chisinau",
+    "Currency": "Leu"
   },
   {
     "Country Name": "Monaco",
@@ -1929,7 +2066,8 @@
     "Phone Code": 377,
     "Continent": "Europe",
     "Capital": "Monaco",
-    "Time Zone in Capital": "Europe/Monaco"
+    "Time Zone in Capital": "Europe/Monaco",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Mongolia",
@@ -1943,7 +2081,8 @@
     "Phone Code": 976,
     "Continent": "Asia",
     "Capital": "Ulan Bator",
-    "Time Zone in Capital": "Asia/Ulaanbaatar"
+    "Time Zone in Capital": "Asia/Ulaanbaatar",
+    "Currency": "Tugrik"
   },
   {
     "Country Name": "Montenegro",
@@ -1957,7 +2096,8 @@
     "Phone Code": 382,
     "Continent": "Europe",
     "Capital": "Podgorica",
-    "Time Zone in Capital": "Europe/Belgrade"
+    "Time Zone in Capital": "Europe/Belgrade",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Montserrat",
@@ -1971,7 +2111,8 @@
     "Phone Code": "1-664",
     "Continent": "North America",
     "Capital": "Plymouth",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Morocco",
@@ -1985,7 +2126,8 @@
     "Phone Code": 212,
     "Continent": "Africa",
     "Capital": "Rabat",
-    "Time Zone in Capital": "Africa/Casablanca"
+    "Time Zone in Capital": "Africa/Casablanca",
+    "Currency": "Dirham"
   },
   {
     "Country Name": "Mozambique",
@@ -1999,7 +2141,8 @@
     "Phone Code": 258,
     "Continent": "Africa",
     "Capital": "Maputo",
-    "Time Zone in Capital": "Africa/Maputo"
+    "Time Zone in Capital": "Africa/Maputo",
+    "Currency": "Metical"
   },
   {
     "Country Name": "Myanmar",
@@ -2013,7 +2156,8 @@
     "Phone Code": 95,
     "Continent": "Asia",
     "Capital": "Nay Pyi Taw",
-    "Time Zone in Capital": "Asia/Rangoon"
+    "Time Zone in Capital": "Asia/Rangoon",
+    "Currency": "Kyat"
   },
   {
     "Country Name": "Namibia",
@@ -2027,7 +2171,8 @@
     "Phone Code": 264,
     "Continent": "Africa",
     "Capital": "Windhoek",
-    "Time Zone in Capital": "Africa/Windhoek"
+    "Time Zone in Capital": "Africa/Windhoek",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Nauru",
@@ -2041,7 +2186,8 @@
     "Phone Code": 674,
     "Continent": "Oceania",
     "Capital": "Yaren",
-    "Time Zone in Capital": "Pacific/Nauru"
+    "Time Zone in Capital": "Pacific/Nauru",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Nepal",
@@ -2055,7 +2201,8 @@
     "Phone Code": 977,
     "Continent": "Asia",
     "Capital": "Kathmandu",
-    "Time Zone in Capital": "Asia/Kathmandu"
+    "Time Zone in Capital": "Asia/Kathmandu",
+    "Currency": "Rupee"
   },
   {
     "Country Name": "Netherlands",
@@ -2069,7 +2216,8 @@
     "Phone Code": 31,
     "Continent": "Europe",
     "Capital": "Amsterdam",
-    "Time Zone in Capital": "Europe/Amsterdam"
+    "Time Zone in Capital": "Europe/Amsterdam",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Netherlands Antilles",
@@ -2083,7 +2231,8 @@
     "Phone Code": 599,
     "Continent": "North America",
     "Capital": "Willemstad",
-    "Time Zone in Capital": "America/Curacao"
+    "Time Zone in Capital": "America/Curacao",
+    "Currency": "Guilder"
   },
   {
     "Country Name": "New Caledonia",
@@ -2097,7 +2246,8 @@
     "Phone Code": 687,
     "Continent": "Oceania",
     "Capital": "Noumea",
-    "Time Zone in Capital": "Pacific/Noumea"
+    "Time Zone in Capital": "Pacific/Noumea",
+    "Currency": "Franc"
   },
   {
     "Country Name": "New Zealand",
@@ -2111,7 +2261,8 @@
     "Phone Code": 64,
     "Continent": "Oceania",
     "Capital": "Wellington",
-    "Time Zone in Capital": "Pacific/Auckland"
+    "Time Zone in Capital": "Pacific/Auckland",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Nicaragua",
@@ -2125,7 +2276,8 @@
     "Phone Code": 505,
     "Continent": "North America",
     "Capital": "Managua",
-    "Time Zone in Capital": "America/Managua"
+    "Time Zone in Capital": "America/Managua",
+    "Currency": "Cordoba"
   },
   {
     "Country Name": "Niger",
@@ -2139,7 +2291,8 @@
     "Phone Code": 227,
     "Continent": "Africa",
     "Capital": "Niamey",
-    "Time Zone in Capital": "Africa/Lagos"
+    "Time Zone in Capital": "Africa/Lagos",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Nigeria",
@@ -2153,7 +2306,8 @@
     "Phone Code": 234,
     "Continent": "Africa",
     "Capital": "Abuja",
-    "Time Zone in Capital": "Africa/Lagos"
+    "Time Zone in Capital": "Africa/Lagos",
+    "Currency": "Naira"
   },
   {
     "Country Name": "Niue",
@@ -2167,7 +2321,8 @@
     "Phone Code": 683,
     "Continent": "Oceania",
     "Capital": "Alofi",
-    "Time Zone in Capital": "Pacific/Niue"
+    "Time Zone in Capital": "Pacific/Niue",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "North Korea",
@@ -2181,7 +2336,8 @@
     "Phone Code": 850,
     "Continent": "Asia",
     "Capital": "Pyongyang",
-    "Time Zone in Capital": "Asia/Pyongyang"
+    "Time Zone in Capital": "Asia/Pyongyang",
+    "Currency": "Won"
   },
   {
     "Country Name": "Northern Mariana Islands",
@@ -2195,7 +2351,8 @@
     "Phone Code": "1-670",
     "Continent": "Oceania",
     "Capital": "Saipan",
-    "Time Zone in Capital": "Pacific/Saipan"
+    "Time Zone in Capital": "Pacific/Saipan",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Norway",
@@ -2209,7 +2366,8 @@
     "Phone Code": 47,
     "Continent": "Europe",
     "Capital": "Oslo",
-    "Time Zone in Capital": "Europe/Oslo"
+    "Time Zone in Capital": "Europe/Oslo",
+    "Currency": "Krone"
   },
   {
     "Country Name": "Oman",
@@ -2223,7 +2381,8 @@
     "Phone Code": 968,
     "Continent": "Asia",
     "Capital": "Muscat",
-    "Time Zone in Capital": "Asia/Muscat"
+    "Time Zone in Capital": "Asia/Muscat",
+    "Currency": "Rial"
   },
   {
     "Country Name": "Pakistan",
@@ -2237,7 +2396,8 @@
     "Phone Code": 92,
     "Continent": "Asia",
     "Capital": "Islamabad",
-    "Time Zone in Capital": "Asia/Karachi"
+    "Time Zone in Capital": "Asia/Karachi",
+    "Currency": "Rupee"
   },
   {
     "Country Name": "Palau",
@@ -2251,7 +2411,8 @@
     "Phone Code": 680,
     "Continent": "Oceania",
     "Capital": "Melekeok",
-    "Time Zone in Capital": "Pacific/Palau"
+    "Time Zone in Capital": "Pacific/Palau",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Palestine",
@@ -2265,7 +2426,8 @@
     "Phone Code": 970,
     "Continent": "Asia",
     "Capital": "East Jerusalem",
-    "Time Zone in Capital": "Asia/Hebron"
+    "Time Zone in Capital": "Asia/Hebron",
+    "Currency": "Shekel"
   },
   {
     "Country Name": "Panama",
@@ -2279,7 +2441,8 @@
     "Phone Code": 507,
     "Continent": "North America",
     "Capital": "Panama City",
-    "Time Zone in Capital": "America/Panama"
+    "Time Zone in Capital": "America/Panama",
+    "Currency": "Balboa"
   },
   {
     "Country Name": "Papua New Guinea",
@@ -2293,7 +2456,8 @@
     "Phone Code": 675,
     "Continent": "Oceania",
     "Capital": "Port Moresby",
-    "Time Zone in Capital": "Pacific/Port_Moresby"
+    "Time Zone in Capital": "Pacific/Port_Moresby",
+    "Currency": "Kina"
   },
   {
     "Country Name": "Paraguay",
@@ -2307,7 +2471,8 @@
     "Phone Code": 595,
     "Continent": "South America",
     "Capital": "Asuncion",
-    "Time Zone in Capital": "America/Asuncion"
+    "Time Zone in Capital": "America/Asuncion",
+    "Currency": "Guarani"
   },
   {
     "Country Name": "Peru",
@@ -2321,7 +2486,8 @@
     "Phone Code": 51,
     "Continent": "South America",
     "Capital": "Lima",
-    "Time Zone in Capital": "America/Lima"
+    "Time Zone in Capital": "America/Lima",
+    "Currency": "Sol"
   },
   {
     "Country Name": "Philippines",
@@ -2335,7 +2501,8 @@
     "Phone Code": 63,
     "Continent": "Asia",
     "Capital": "Manila",
-    "Time Zone in Capital": "Asia/Manila"
+    "Time Zone in Capital": "Asia/Manila",
+    "Currency": "Peso"
   },
   {
     "Country Name": "Pitcairn",
@@ -2349,7 +2516,8 @@
     "Phone Code": 64,
     "Continent": "Oceania",
     "Capital": "Adamstown",
-    "Time Zone in Capital": "Pacific/Pitcairn"
+    "Time Zone in Capital": "Pacific/Pitcairn",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Poland",
@@ -2363,7 +2531,8 @@
     "Phone Code": 48,
     "Continent": "Europe",
     "Capital": "Warsaw",
-    "Time Zone in Capital": "Europe/Warsaw"
+    "Time Zone in Capital": "Europe/Warsaw",
+    "Currency": "Zloty"
   },
   {
     "Country Name": "Portugal",
@@ -2377,7 +2546,8 @@
     "Phone Code": 351,
     "Continent": "Europe",
     "Capital": "Lisbon",
-    "Time Zone in Capital": "Europe/Lisbon"
+    "Time Zone in Capital": "Europe/Lisbon",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Puerto Rico",
@@ -2391,7 +2561,8 @@
     "Phone Code": "1-787, 1-939",
     "Continent": "North America",
     "Capital": "San Juan",
-    "Time Zone in Capital": "America/Puerto_Rico"
+    "Time Zone in Capital": "America/Puerto_Rico",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Qatar",
@@ -2405,7 +2576,8 @@
     "Phone Code": 974,
     "Continent": "Asia",
     "Capital": "Doha",
-    "Time Zone in Capital": "Asia/Qatar"
+    "Time Zone in Capital": "Asia/Qatar",
+    "Currency": "Rial"
   },
   {
     "Country Name": "Republic of the Congo",
@@ -2419,7 +2591,8 @@
     "Phone Code": 242,
     "Continent": "Africa",
     "Capital": "Brazzaville",
-    "Time Zone in Capital": "Africa/Lagos"
+    "Time Zone in Capital": "Africa/Lagos",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Reunion",
@@ -2433,7 +2606,8 @@
     "Phone Code": 262,
     "Continent": "Africa",
     "Capital": "Saint-Denis",
-    "Time Zone in Capital": "Indian/Reunion"
+    "Time Zone in Capital": "Indian/Reunion",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Romania",
@@ -2447,7 +2621,8 @@
     "Phone Code": 40,
     "Continent": "Europe",
     "Capital": "Bucharest",
-    "Time Zone in Capital": "Europe/Bucharest"
+    "Time Zone in Capital": "Europe/Bucharest",
+    "Currency": "Leu"
   },
   {
     "Country Name": "Russia",
@@ -2461,7 +2636,8 @@
     "Phone Code": 7,
     "Continent": "Europe",
     "Capital": "Moscow",
-    "Time Zone in Capital": "Europe/Moscow"
+    "Time Zone in Capital": "Europe/Moscow",
+    "Currency": "Ruble"
   },
   {
     "Country Name": "Rwanda",
@@ -2475,7 +2651,8 @@
     "Phone Code": 250,
     "Continent": "Africa",
     "Capital": "Kigali",
-    "Time Zone in Capital": "Africa/Maputo"
+    "Time Zone in Capital": "Africa/Maputo",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Saint Barthelemy",
@@ -2489,7 +2666,8 @@
     "Phone Code": 590,
     "Continent": "North America",
     "Capital": "Gustavia",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Saint Helena",
@@ -2503,7 +2681,8 @@
     "Phone Code": 290,
     "Continent": "Africa",
     "Capital": "Jamestown",
-    "Time Zone in Capital": "Africa/Abidjan"
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Pound"
   },
   {
     "Country Name": "Saint Kitts and Nevis",
@@ -2517,7 +2696,8 @@
     "Phone Code": "1-869",
     "Continent": "North America",
     "Capital": "Basseterre",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Saint Lucia",
@@ -2531,7 +2711,8 @@
     "Phone Code": "1-758",
     "Continent": "North America",
     "Capital": "Castries",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Saint Martin",
@@ -2545,7 +2726,8 @@
     "Phone Code": 590,
     "Continent": "North America",
     "Capital": "Marigot",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Saint Pierre and Miquelon",
@@ -2559,7 +2741,8 @@
     "Phone Code": 508,
     "Continent": "North America",
     "Capital": "Saint-Pierre",
-    "Time Zone in Capital": "America/Miquelon"
+    "Time Zone in Capital": "America/Miquelon",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Saint Vincent and the Grenadines",
@@ -2573,7 +2756,8 @@
     "Phone Code": "1-784",
     "Continent": "North America",
     "Capital": "Kingstown",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Samoa",
@@ -2587,7 +2771,8 @@
     "Phone Code": 685,
     "Continent": "Oceania",
     "Capital": "Apia",
-    "Time Zone in Capital": "Pacific/Apia"
+    "Time Zone in Capital": "Pacific/Apia",
+    "Currency": "Tala"
   },
   {
     "Country Name": "San Marino",
@@ -2601,7 +2786,8 @@
     "Phone Code": 378,
     "Continent": "Europe",
     "Capital": "San Marino",
-    "Time Zone in Capital": "Europe/Rome"
+    "Time Zone in Capital": "Europe/Rome",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Sao Tome and Principe",
@@ -2615,7 +2801,8 @@
     "Phone Code": 239,
     "Continent": "Africa",
     "Capital": "Sao Tome",
-    "Time Zone in Capital": "Africa/Abidjan"
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Dobra"
   },
   {
     "Country Name": "Saudi Arabia",
@@ -2629,7 +2816,8 @@
     "Phone Code": 966,
     "Continent": "Asia",
     "Capital": "Riyadh",
-    "Time Zone in Capital": "Asia/Riyadh"
+    "Time Zone in Capital": "Asia/Riyadh",
+    "Currency": "Rial"
   },
   {
     "Country Name": "Senegal",
@@ -2643,7 +2831,8 @@
     "Phone Code": 221,
     "Continent": "Africa",
     "Capital": "Dakar",
-    "Time Zone in Capital": "Africa/Abidjan"
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Serbia",
@@ -2657,7 +2846,8 @@
     "Phone Code": 381,
     "Continent": "Europe",
     "Capital": "Belgrade",
-    "Time Zone in Capital": "Europe/Belgrade"
+    "Time Zone in Capital": "Europe/Belgrade",
+    "Currency": "Dinar"
   },
   {
     "Country Name": "Seychelles",
@@ -2671,7 +2861,8 @@
     "Phone Code": 248,
     "Continent": "Africa",
     "Capital": "Victoria",
-    "Time Zone in Capital": "Indian/Mahe"
+    "Time Zone in Capital": "Indian/Mahe",
+    "Currency": "Rupee"
   },
   {
     "Country Name": "Sierra Leone",
@@ -2685,7 +2876,8 @@
     "Phone Code": 232,
     "Continent": "Africa",
     "Capital": "Freetown",
-    "Time Zone in Capital": "Africa/Abidjan"
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Leone"
   },
   {
     "Country Name": "Singapore",
@@ -2699,7 +2891,8 @@
     "Phone Code": 65,
     "Continent": "Asia",
     "Capital": "Singapore",
-    "Time Zone in Capital": "Asia/Singapore"
+    "Time Zone in Capital": "Asia/Singapore",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Sint Maarten",
@@ -2713,7 +2906,8 @@
     "Phone Code": "1-721",
     "Continent": "North America",
     "Capital": "Philipsburg",
-    "Time Zone in Capital": "America/Curacao"
+    "Time Zone in Capital": "America/Curacao",
+    "Currency": "Guilder"
   },
   {
     "Country Name": "Slovakia",
@@ -2727,7 +2921,8 @@
     "Phone Code": 421,
     "Continent": "Europe",
     "Capital": "Bratislava",
-    "Time Zone in Capital": "Europe/Prague"
+    "Time Zone in Capital": "Europe/Prague",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Slovenia",
@@ -2741,7 +2936,8 @@
     "Phone Code": 386,
     "Continent": "Europe",
     "Capital": "Ljubljana",
-    "Time Zone in Capital": "Europe/Belgrade"
+    "Time Zone in Capital": "Europe/Belgrade",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Solomon Islands",
@@ -2755,7 +2951,8 @@
     "Phone Code": 677,
     "Continent": "Oceania",
     "Capital": "Honiara",
-    "Time Zone in Capital": "Pacific/Guadalcanal"
+    "Time Zone in Capital": "Pacific/Guadalcanal",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Somalia",
@@ -2769,7 +2966,8 @@
     "Phone Code": 252,
     "Continent": "Africa",
     "Capital": "Mogadishu",
-    "Time Zone in Capital": "Africa/Mogadishu"
+    "Time Zone in Capital": "Africa/Mogadishu",
+    "Currency": "Shilling"
   },
   {
     "Country Name": "South Africa",
@@ -2783,7 +2981,8 @@
     "Phone Code": 27,
     "Continent": "Africa",
     "Capital": "Pretoria",
-    "Time Zone in Capital": "Africa/Johannesburg"
+    "Time Zone in Capital": "Africa/Johannesburg",
+    "Currency": "Rand"
   },
   {
     "Country Name": "South Korea",
@@ -2797,7 +2996,8 @@
     "Phone Code": 82,
     "Continent": "Asia",
     "Capital": "Seoul",
-    "Time Zone in Capital": "Asia/Seoul"
+    "Time Zone in Capital": "Asia/Seoul",
+    "Currency": "Won"
   },
   {
     "Country Name": "South Sudan",
@@ -2811,7 +3011,8 @@
     "Phone Code": 211,
     "Continent": "Africa",
     "Capital": "Juba",
-    "Time Zone in Capital": "Africa/Khartoum"
+    "Time Zone in Capital": "Africa/Khartoum",
+    "Currency": "Pound"
   },
   {
     "Country Name": "Spain",
@@ -2825,7 +3026,8 @@
     "Phone Code": 34,
     "Continent": "Europe",
     "Capital": "Madrid",
-    "Time Zone in Capital": "Europe/Madrid"
+    "Time Zone in Capital": "Europe/Madrid",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Sri Lanka",
@@ -2839,7 +3041,8 @@
     "Phone Code": 94,
     "Continent": "Asia",
     "Capital": "Colombo",
-    "Time Zone in Capital": "Asia/Colombo"
+    "Time Zone in Capital": "Asia/Colombo",
+    "Currency": "Rupee"
   },
   {
     "Country Name": "Sudan",
@@ -2853,7 +3056,8 @@
     "Phone Code": 249,
     "Continent": "Africa",
     "Capital": "Khartoum",
-    "Time Zone in Capital": "Africa/Khartoum"
+    "Time Zone in Capital": "Africa/Khartoum",
+    "Currency": "Pound"
   },
   {
     "Country Name": "Suriname",
@@ -2867,7 +3071,8 @@
     "Phone Code": 597,
     "Continent": "South America",
     "Capital": "Paramaribo",
-    "Time Zone in Capital": "America/Paramaribo"
+    "Time Zone in Capital": "America/Paramaribo",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Svalbard and Jan Mayen",
@@ -2881,7 +3086,8 @@
     "Phone Code": 47,
     "Continent": "Europe",
     "Capital": "Longyearbyen",
-    "Time Zone in Capital": "Europe/Oslo"
+    "Time Zone in Capital": "Europe/Oslo",
+    "Currency": "Krone"
   },
   {
     "Country Name": "Swaziland",
@@ -2895,7 +3101,8 @@
     "Phone Code": 268,
     "Continent": "Africa",
     "Capital": "Mbabane",
-    "Time Zone in Capital": "Africa/Johannesburg"
+    "Time Zone in Capital": "Africa/Johannesburg",
+    "Currency": "Lilangeni"
   },
   {
     "Country Name": "Sweden",
@@ -2909,7 +3116,8 @@
     "Phone Code": 46,
     "Continent": "Europe",
     "Capital": "Stockholm",
-    "Time Zone in Capital": "Europe/Stockholm"
+    "Time Zone in Capital": "Europe/Stockholm",
+    "Currency": "Krona"
   },
   {
     "Country Name": "Switzerland",
@@ -2923,7 +3131,8 @@
     "Phone Code": 41,
     "Continent": "Europe",
     "Capital": "Berne",
-    "Time Zone in Capital": "Europe/Zurich"
+    "Time Zone in Capital": "Europe/Zurich",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Syria",
@@ -2937,7 +3146,8 @@
     "Phone Code": 963,
     "Continent": "Asia",
     "Capital": "Damascus",
-    "Time Zone in Capital": "Asia/Damascus"
+    "Time Zone in Capital": "Asia/Damascus",
+    "Currency": "Pound"
   },
   {
     "Country Name": "Taiwan",
@@ -2951,7 +3161,8 @@
     "Phone Code": 886,
     "Continent": "Asia",
     "Capital": "Taipei",
-    "Time Zone in Capital": "Asia/Taipei"
+    "Time Zone in Capital": "Asia/Taipei",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Tajikistan",
@@ -2965,7 +3176,8 @@
     "Phone Code": 992,
     "Continent": "Asia",
     "Capital": "Dushanbe",
-    "Time Zone in Capital": "Asia/Dushanbe"
+    "Time Zone in Capital": "Asia/Dushanbe",
+    "Currency": "Somoni"
   },
   {
     "Country Name": "Tanzania",
@@ -2979,7 +3191,8 @@
     "Phone Code": 255,
     "Continent": "Africa",
     "Capital": "Dodoma",
-    "Time Zone in Capital": "Africa/Dar_es_Salaam"
+    "Time Zone in Capital": "Africa/Dar_es_Salaam",
+    "Currency": "Shilling"
   },
   {
     "Country Name": "Thailand",
@@ -2993,7 +3206,8 @@
     "Phone Code": 66,
     "Continent": "Asia",
     "Capital": "Bangkok",
-    "Time Zone in Capital": "Asia/Bangkok"
+    "Time Zone in Capital": "Asia/Bangkok",
+    "Currency": "Baht"
   },
   {
     "Country Name": "Togo",
@@ -3007,7 +3221,8 @@
     "Phone Code": 228,
     "Continent": "Africa",
     "Capital": "Lome",
-    "Time Zone in Capital": "Africa/Abidjan"
+    "Time Zone in Capital": "Africa/Abidjan",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Tokelau",
@@ -3021,7 +3236,8 @@
     "Phone Code": 690,
     "Continent": "Oceania",
     "Capital": "",
-    "Time Zone in Capital": "Pacific/Fakaofo"
+    "Time Zone in Capital": "Pacific/Fakaofo",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Tonga",
@@ -3035,7 +3251,8 @@
     "Phone Code": 676,
     "Continent": "Oceania",
     "Capital": "Nuku'alofa",
-    "Time Zone in Capital": "Pacific/Tongatapu"
+    "Time Zone in Capital": "Pacific/Tongatapu",
+    "Currency": "Pa'anga"
   },
   {
     "Country Name": "Trinidad and Tobago",
@@ -3049,7 +3266,8 @@
     "Phone Code": "1-868",
     "Continent": "North America",
     "Capital": "Port of Spain",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Tunisia",
@@ -3063,7 +3281,8 @@
     "Phone Code": 216,
     "Continent": "Africa",
     "Capital": "Tunis",
-    "Time Zone in Capital": "Africa/Tunis"
+    "Time Zone in Capital": "Africa/Tunis",
+    "Currency": "Dinar"
   },
   {
     "Country Name": "Turkey",
@@ -3077,7 +3296,8 @@
     "Phone Code": 90,
     "Continent": "Asia",
     "Capital": "Ankara",
-    "Time Zone in Capital": "Europe/Istanbul"
+    "Time Zone in Capital": "Europe/Istanbul",
+    "Currency": "Lira"
   },
   {
     "Country Name": "Turkmenistan",
@@ -3091,7 +3311,8 @@
     "Phone Code": 993,
     "Continent": "Asia",
     "Capital": "Ashgabat",
-    "Time Zone in Capital": "Asia/Ashgabat"
+    "Time Zone in Capital": "Asia/Ashgabat",
+    "Currency": "Manat"
   },
   {
     "Country Name": "Turks and Caicos Islands",
@@ -3105,7 +3326,8 @@
     "Phone Code": "1-649",
     "Continent": "North America",
     "Capital": "Cockburn Town",
-    "Time Zone in Capital": "America/Grand_Turk"
+    "Time Zone in Capital": "America/Grand_Turk",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Tuvalu",
@@ -3119,7 +3341,8 @@
     "Phone Code": 688,
     "Continent": "Oceania",
     "Capital": "Funafuti",
-    "Time Zone in Capital": "Pacific/Funafuti"
+    "Time Zone in Capital": "Pacific/Funafuti",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "U.S. Virgin Islands",
@@ -3133,7 +3356,8 @@
     "Phone Code": "1-340",
     "Continent": "North America",
     "Capital": "Charlotte Amalie",
-    "Time Zone in Capital": "America/Port_of_Spain"
+    "Time Zone in Capital": "America/Port_of_Spain",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Uganda",
@@ -3147,7 +3371,8 @@
     "Phone Code": 256,
     "Continent": "Africa",
     "Capital": "Kampala",
-    "Time Zone in Capital": "Africa/Kampala"
+    "Time Zone in Capital": "Africa/Kampala",
+    "Currency": "Shilling"
   },
   {
     "Country Name": "Ukraine",
@@ -3161,7 +3386,8 @@
     "Phone Code": 380,
     "Continent": "Europe",
     "Capital": "Kiev",
-    "Time Zone in Capital": "Europe/Kiev"
+    "Time Zone in Capital": "Europe/Kiev",
+    "Currency": "Hryvnia"
   },
   {
     "Country Name": "United Arab Emirates",
@@ -3175,7 +3401,8 @@
     "Phone Code": 971,
     "Continent": "Asia",
     "Capital": "Abu Dhabi",
-    "Time Zone in Capital": "Asia/Dubai"
+    "Time Zone in Capital": "Asia/Dubai",
+    "Currency": "Dirham"
   },
   {
     "Country Name": "United Kingdom",
@@ -3189,7 +3416,8 @@
     "Phone Code": 44,
     "Continent": "Europe",
     "Capital": "London",
-    "Time Zone in Capital": "Europe/London"
+    "Time Zone in Capital": "Europe/London",
+    "Currency": "Pound"
   },
   {
     "Country Name": "United States",
@@ -3203,7 +3431,8 @@
     "Phone Code": 1,
     "Continent": "North America",
     "Capital": "Washington",
-    "Time Zone in Capital": "America/New_York"
+    "Time Zone in Capital": "America/New_York",
+    "Currency": "Dollar"
   },
   {
     "Country Name": "Uruguay",
@@ -3217,7 +3446,8 @@
     "Phone Code": 598,
     "Continent": "South America",
     "Capital": "Montevideo",
-    "Time Zone in Capital": "America/Montevideo"
+    "Time Zone in Capital": "America/Montevideo",
+    "Currency": "Peso"
   },
   {
     "Country Name": "Uzbekistan",
@@ -3231,7 +3461,8 @@
     "Phone Code": 998,
     "Continent": "Asia",
     "Capital": "Tashkent",
-    "Time Zone in Capital": "Asia/Tashkent"
+    "Time Zone in Capital": "Asia/Tashkent",
+    "Currency": "Som"
   },
   {
     "Country Name": "Vanuatu",
@@ -3245,7 +3476,8 @@
     "Phone Code": 678,
     "Continent": "Oceania",
     "Capital": "Port Vila",
-    "Time Zone in Capital": "Pacific/Efate"
+    "Time Zone in Capital": "Pacific/Efate",
+    "Currency": "Vatu"
   },
   {
     "Country Name": "Vatican",
@@ -3259,7 +3491,8 @@
     "Phone Code": 379,
     "Continent": "Europe",
     "Capital": "Vatican City",
-    "Time Zone in Capital": "Europe/Rome"
+    "Time Zone in Capital": "Europe/Rome",
+    "Currency": "Euro"
   },
   {
     "Country Name": "Venezuela",
@@ -3273,7 +3506,8 @@
     "Phone Code": 58,
     "Continent": "South America",
     "Capital": "Caracas",
-    "Time Zone in Capital": "America/Caracas"
+    "Time Zone in Capital": "America/Caracas",
+    "Currency": "Bolivar"
   },
   {
     "Country Name": "Vietnam",
@@ -3287,7 +3521,8 @@
     "Phone Code": 84,
     "Continent": "Asia",
     "Capital": "Hanoi",
-    "Time Zone in Capital": "Asia/Ho_Chi_Minh"
+    "Time Zone in Capital": "Asia/Ho_Chi_Minh",
+    "Currency": "Dong"
   },
   {
     "Country Name": "Wallis and Futuna",
@@ -3301,7 +3536,8 @@
     "Phone Code": 681,
     "Continent": "Oceania",
     "Capital": "Mata Utu",
-    "Time Zone in Capital": "Pacific/Wallis"
+    "Time Zone in Capital": "Pacific/Wallis",
+    "Currency": "Franc"
   },
   {
     "Country Name": "Western Sahara",
@@ -3315,7 +3551,8 @@
     "Phone Code": 212,
     "Continent": "Africa",
     "Capital": "El-Aaiun",
-    "Time Zone in Capital": "Africa/El_Aaiun"
+    "Time Zone in Capital": "Africa/El_Aaiun",
+    "Currency": "Dirham"
   },
   {
     "Country Name": "Yemen",
@@ -3329,7 +3566,8 @@
     "Phone Code": 967,
     "Continent": "Asia",
     "Capital": "Sanaa",
-    "Time Zone in Capital": "Asia/Aden"
+    "Time Zone in Capital": "Asia/Aden",
+    "Currency": "Rial"
   },
   {
     "Country Name": "Zambia",
@@ -3343,7 +3581,8 @@
     "Phone Code": 260,
     "Continent": "Africa",
     "Capital": "Lusaka",
-    "Time Zone in Capital": "Africa/Maputo"
+    "Time Zone in Capital": "Africa/Maputo",
+    "Currency": "Kwacha"
   },
   {
     "Country Name": "Zimbabwe",
@@ -3357,6 +3596,7 @@
     "Phone Code": 263,
     "Continent": "Africa",
     "Capital": "Harare",
-    "Time Zone in Capital": "Africa/Maput",
+    "Time Zone in Capital": "Africa/Maputo",
+    "Currency": "Dollar"
   }
 ]
