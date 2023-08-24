@@ -19,6 +19,7 @@ class Whatsapp {
         }, $convertingNumber);
         $readyNumber = implode("", $filterNumber);
 
+        // filtering messaage
         $convertingMessage = explode(" ", $message);
         $readyMessage = implode("+", $convertingMessage);
         return redirect("https://api.whatsapp.com/send/?phone=%2B" . $readyNumber . "&text=". $readyMessage ."&text&type=phone_number&app_absent=0");
