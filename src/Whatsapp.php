@@ -1,27 +1,20 @@
 <?php 
 
-namespace arifinhabibi\whatsappSendingMessage\src;
+namespace arifinhabibi\whatsapp;
+
+use arifinhabibi\whatsapp\filter\CountryCode;
+use arifinhabibi\whatsapp\filter\SeparateMessage;
 
 class Whatsapp {
 
     function send(string $targetNumber, string $message)
     {
         // filtering number
-        $convertingNumber = str_split($targetNumber);
-        $filterNumber = array_map(function($value){
-            if ($value == "0") {
-                return "62";
-            }
-            if ($value == "+") {
-                # code...
-                return "";
-            }
-        }, $convertingNumber);
-        $readyNumber = implode("", $filterNumber);
+        $readyNumber = CountryCode::filter($targetNumber);
 
         // filtering message
-        $convertingMessage = explode(" ", $message);
-        $readyMessage = implode("+", $convertingMessage);
+        $readyMessage = SeparateMessage::separated($message);
+        
         return redirect("https://api.whatsapp.com/send/?phone=%2B" . $readyNumber . "&text=". $readyMessage ."&text&type=phone_number&app_absent=0");
     }
 }

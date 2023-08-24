@@ -1,5 +1,5 @@
 {
-    "name": "arifinhabibi/whatsapp-sending-message",
+    "name": "arifinhabibi/whatsapp",
     "description": "laravel whatsapp sending message",
     "keywords": [
         "laravel",
@@ -11,7 +11,7 @@
     "version": "v1.0.5",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/arifinhabibi/whatsapp-sending-message",
+    "homepage": "https://github.com/arifinhabibi/whatsapp",
     "require": {
         "php": ">=7.4|<8.4"
     },
@@ -26,5 +26,12 @@
             "email": "arifinhabibi76@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "arifinhabibi\\whatsapp\\ServiceProviderWhatsapp"
+            ]
+        }
+    }
 }
