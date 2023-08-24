@@ -6,6 +6,7 @@ class Whatsapp {
 
     function send(string $targetNumber, string $message)
     {
+        // filtering number
         $convertingNumber = str_split($targetNumber);
         $filterNumber = array_map(function($value){
             if ($value == "0") {
