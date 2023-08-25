@@ -20,6 +20,7 @@ class CountryCode {
                 array_unshift($convertingNumber, "6", "2");
             }
         }, $convertingNumber);
+        dd($filterNumber);
         return implode("", $filterNumber);
     }
 }
