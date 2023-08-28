@@ -30,7 +30,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "arifinhabibi\\whatsapp\\ServiceProviderWhatsapp"
+                "arifinhabibi\\whatsapp\\src\\ServiceProviderWhatsapp"
             ]
         }
     }
