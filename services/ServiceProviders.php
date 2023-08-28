@@ -1,15 +1,15 @@
 <?php 
-namespace arifinhabibi\whatsapp;
+namespace arifinhabibi\whatsapp\services;
 
 use Illuminate\Support\ServiceProvider;
 
-class ServiceProviderWhatsapp extends ServiceProvider {
+class ServiceProviders extends ServiceProvider {
     
     public function boot(){
 
     }
 
     public function register(){
-
+        
     }
 }
