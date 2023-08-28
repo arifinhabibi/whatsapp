@@ -8,7 +8,7 @@
         "message",
         "laravel whatsapp sending message"
     ],
-    "version": "v1.0.5",
+    "version": "v1.0.7",
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/arifinhabibi/whatsapp",
@@ -22,7 +22,7 @@
     },
     "authors": [
         {
-            "name": "Muhammad Arifin Habibi",
+            "name": "Muhammad Arifin Habibi", 
             "email": "arifinhabibi76@gmail.com"
         }
     ],
