@@ -5,9 +5,7 @@ class FilterCountry {
 
     public static function filter(string $targetNumber){
         $convertNumber = str_split($targetNumber);
-
-        
-        self::indonesia($convertNumber);
+        return self::indonesia($convertNumber);
     }
 
     public static function indonesia(array $targetNumber){

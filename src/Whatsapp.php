@@ -17,7 +17,7 @@ class Whatsapp
 
         // filtering message
         $readyMessage = SeparateMessage::separated($message);
-        
+
         return redirect("https://api.whatsapp.com/send/?phone=%2B" . $readyNumber . "&text=". $readyMessage ."&type=phone_number&app_absent=0");
     }
 }
