@@ -17,12 +17,12 @@
     },
     "autoload": {
         "psr-4": {
-            "arifinhabibi\\whatsapp\\": "src/"
+            "Arifinhabibi\\Whatsapp\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "arifinhabibi\\whatsapp\\tests\\": "tests/" 
+            "Arifinhabibi\\Whatsapp\\Tests\\": "tests/" 
         }
     },
     "authors": [

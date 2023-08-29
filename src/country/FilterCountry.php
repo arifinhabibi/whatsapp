@@ -1,5 +1,5 @@
 <?php 
-namespace arifinhabibi\whatsapp\country;
+namespace Arifinhabibi\Whatsapp\Country;
 
 class FilterCountry {
 
