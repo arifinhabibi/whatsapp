@@ -8,7 +8,7 @@
         "message",
         "laravel whatsapp sending message"
     ],
-    "version": "v1.0.8",
+    "version": "v1.0.9",
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/arifinhabibi/whatsapp",
@@ -32,13 +32,6 @@
         }
     ],
     "minimum-stability": "stable",
-    "extra": {
-        "laravel": {
-            "providers": [
-                "arifinhabibi\\whatsapp\\services\\ServiceProviders"
-            ]
-        }
-    },
     "require-dev": {
         "phpunit/phpunit": "^9.6"
     }
