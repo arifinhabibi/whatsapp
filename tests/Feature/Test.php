@@ -8,6 +8,6 @@ class Test extends TestCase {
 
     /**  @test */
     public function test(){
-        Whatsapp::send("85882529291", "lahdsfh");
+        Whatsapp::send("85882529291", "helloo world!");
     }
 }
