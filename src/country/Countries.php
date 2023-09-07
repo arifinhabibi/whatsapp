@@ -447,7 +447,7 @@ return [
     "code" => "GN"
     ],
     (object) [
-    "name" => "Guinea-Bissau",
+    "name" => "Guinea Bissau",
     "dial_code" => "+245",
     "code" => "GW"
     ],
@@ -1082,7 +1082,7 @@ return [
     "code" => "TH"
     ],
     (object) [
-    "name" => "Timor-Leste",
+    "name" => "Timor Leste",
     "dial_code" => "+670",
     "code" => "TL"
     ],
