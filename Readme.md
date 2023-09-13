@@ -1,5 +1,5 @@
 
-# Package Laravel For Whatsapp Sending Message
+# package laravel for whatsapp sending message
 
 [![Latest Stable Version](http://poser.pugx.org/arifinhabibi/whatsapp/v/stable.svg)](https://packagist.org/packages/arifinhabibi/whatsapp) [![Total Downloads](http://poser.pugx.org/arifinhabibi/whatsapp/downloads)](https://packagist.org/packages/arifinhabibi/whatsapp) [![License](https://poser.pugx.org/arifinhabibi/whatsapp/license)](https://packagist.org/packages/arifinhabibi/whatsapp)
 
@@ -18,7 +18,7 @@ Install this package with [composer](https://getcomposer.org/) and run this on y
 composer require arifinhabibi/whatsapp
 ```
     
-Next step you must declare the origin class 
+Next step on controller you must declare the origin static method 
 
 ```base
 use arifinhabibi\whatsapp\Whatsapp;

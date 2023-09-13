@@ -8,7 +8,7 @@
         "message",
         "laravel whatsapp sending message"
     ],
-    "version": "v2.0.0",
+    "version": "v2.0.1",
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/arifinhabibi/whatsapp",
@@ -17,12 +17,12 @@
     },
     "autoload": {
         "psr-4": {
-            "arifinhabibi\\whatsapp\\": "src/"
+            "Arifinhabibi\\Whatsapp\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "arifinhabibi\\whatsapp\\tests\\": "tests/" 
+            "Arifinhabibi\\Whatsapp\\Tests\\": "tests/" 
         }
     },
     "authors": [
