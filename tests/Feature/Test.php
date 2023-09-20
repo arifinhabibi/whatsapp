@@ -11,6 +11,6 @@ class Test extends TestCase {
         var_dump(Whatsapp::send("6285882529291", "helloo world!"));
         // var_dump(Whatsapp::countries());
         // var_dump(Whatsapp::register("id", "85812938987"));
-        // var_dump(Whatsapp::findCountry("as"));
+        // var_dump(Whatsapp::findCountry("us"));
     }
 }

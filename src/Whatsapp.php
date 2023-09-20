@@ -28,7 +28,6 @@ class Whatsapp
             $converNumber[0] = '';
         }
         $readyNumber = implode("", $converNumber);
-        var_dump($readyNumber);
         return $readyNumber;
     }
 
